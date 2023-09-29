@@ -1,1 +1,3 @@
-print("hello world")
+#Displaying "Hello World!" on the screen
+#print is a Python defined dafault function
+print("Hello World!")
