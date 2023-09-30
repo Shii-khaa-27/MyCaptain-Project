@@ -1,0 +1,14 @@
+list1 = [12, -7, 5, 64, -14]
+list2 = [12, 14, -95, 3]
+num1 = 0
+num2 = 0
+# using while loop    
+while(num1 < len(list1)):
+  if list1[num1] >= 0:
+    print(list1[num1], end = " ")    
+  num1 += 1
+print ("\n")
+while(num2 < len(list2)):
+  if list2[num2] >= 0:
+    print(list2[num2], end = " ")    
+  num2 += 1
